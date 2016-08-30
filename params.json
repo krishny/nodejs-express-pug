@@ -1,0 +1,6 @@
+{
+  "name": "Nodejs-express-pug",
+  "tagline": "Skeleton Nodeproject with Express and Pug (formerly known as \"Jade\")",
+  "body": "# Nodejs Express Pug Skeleton Project\r\nSkeleton Nodeproject with Express and Pug (formerly known as \"Jade\")\r\n\r\n# Install Nodejs and Npm\r\n\r\n### Linux\r\n```\r\napt-get install nodejs npm\r\n```\r\n\r\n### Mac\r\n\r\nDownload https://nodejs.org/en/download/ and install it. Npm is included.\r\n\r\n###Windows\r\n\r\nDownload https://nodejs.org/en/download/ and install it. Npm is included.\r\n\r\n# Install dependencies\r\n\r\nOpen a terminal and navigate to your skeleton nodejs-express-pug folder.\r\n\r\n```\r\ncd path/to/your/skeleton\r\n```\r\n\r\nInstall dependencies with:\r\n```\r\nnpm install\r\n```\r\n\r\n# Done\r\n\r\nRun your skeleton with:\r\n```\r\nnodejs app.js\r\n```\r\n\r\nOpen your browser and navigate to [http://localhost/](http://localhost/)\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
