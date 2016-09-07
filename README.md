@@ -1,5 +1,5 @@
 # Nodejs Express Pug Skeleton Project
-Skeleton Nodeproject with Express and Pug (formerly known as "Jade")
+Skeleton Nodeproject with Express and Pug (formerly known as Jade)
 
 # Install Nodejs and Npm
 
