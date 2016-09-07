@@ -1,15 +1,28 @@
 {
   "name": "nodejs-express-pug",
   "version": "0.0.1",
-  "private": false,
+  "description": "Nodejs Express Skeleton with Pug",
+  "main": "app.js",
   "dependencies": {
     "express": "~4.13.4",
-    "pug": "^2.0.0-beta6",
-    "path": "~0.12.7"
+    "path": "~0.12.7",
+    "pug": "~2.0.0-beta6"
   },
-  "repository":
-  {
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
     "type": "git",
-    "url": "https://github.com/simon-czychy/nodejs-express-pug"
+    "url": "https://github.com/simon-czychy/nodejs-express-pug.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "pug"
+  ],
+  "author": "Simon Czychy",
+  "bugs": {
+    "url": "https://github.com/simon-czychy/nodejs-express-pug/issues"
   }
 }
