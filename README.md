@@ -12,7 +12,7 @@ $ apt-get install nodejs npm
 
 Download https://nodejs.org/en/download/ and install it. Npm is included.
 
-###Windows
+### Windows
 
 Download https://nodejs.org/en/download/ and install it. Npm is included.
 
